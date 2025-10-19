@@ -48,6 +48,14 @@ An Egyptian-themed tap-to-survive arcade game developed using the Flutter and Fl
   - Optimized rendering system
   - Seamless operation on all devices
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/screenshot1.png" alt="Main Menu" width="250"/>
+  <img src="screenshots/screenshot2.png" alt="Gameplay" width="250"/>
+  <img src="screenshots/screenshot3.png" alt="Game Over" width="250"/>
+</div>
+
 ## 🚀 Installation and Execution
 
 ### Requirements
